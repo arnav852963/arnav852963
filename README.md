@@ -54,34 +54,19 @@ Architecture & AI      : RAG • LangChain • LangGraph • RESTful APIs • We
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| 🚘 **[Vehicular](https://vehicular-frontend.vercel.app/)**[cite: 3] | `React` `Node.js` `Socket.io` `MongoDB`[cite: 3] | Privacy-first parking communication system utilizing windshield QR codes for real-time anonymous guest chats and push notifications[cite: 3]. |
-| 📚 **[ProfConnect](https://proff-connect.vercel.app/)**[cite: 3] | `React` `Node.js` `SerpAPI` `MongoDB`[cite: 3] | Academic research management portal that auto-syncs Google Scholar publications and powers analytics dashboards[cite: 3]. |
+| 🚘 **[Vehicular](https://vehicular-frontend.vercel.app/)** | `React` `Node.js` `Socket.io` `MongoDB` | Privacy-first parking communication system utilizing windshield QR codes for real-time anonymous guest chats and push notifications. |
+| 📚 **[ProfConnect](https://proff-connect.vercel.app/)** | `React` `Node.js` `SerpAPI` `MongoDB`| Academic research management portal that auto-syncs Google Scholar publications and powers analytics dashboards. |
 
 ---
 
 ### 💼 **Work Experience**
 
-* **Tringbox AI** — *Software Development Intern* `May 2026 – Present`[cite: 3]
-  * Architected automated GST billing engines via Paytm APIs and asynchronous AWS SQS message pipelines[cite: 3].
-  * Engineered a scalable AWS audio processing pipeline handling **300,000+ tracks**[cite: 3].
-* **Avkalan Labs** — *Software Development Intern* `Dec 2025 – Mar 2026`[cite: 3]
-  * Optimized database query execution and data pipelines, cutting system latency and DB calls by **40%**[cite: 3].
-  * Built desktop tools with Electron.js & MoviePy, alongside structured productivity plugins[cite: 3].
-
----
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arnav852963&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav852963&theme=dark&hide_border=true&include_all_commits=true&layout=compact" />
-
-<br/>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arnav852963&theme=dark&hide_border=true)
-
-</div>
+* **Tringbox AI** — *Software Development Intern* `May 2026 – Present`
+  * Architected automated GST billing engines via Paytm APIs and asynchronous AWS SQS message pipelines.
+  * Engineered a scalable AWS audio processing pipeline handling **300,000+ tracks**.
+* **Avkalan Labs** — *Software Development Intern* `Dec 2025 – Mar 2026`
+  * Optimized database query execution and data pipelines, cutting system latency and DB calls by **40%**.
+  * Built desktop tools with Electron.js & MoviePy, alongside structured productivity plugins.
 
 ---
 
