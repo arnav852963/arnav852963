@@ -5,11 +5,11 @@
 
 <a href="https://linkedin.com/in/arnav-ticku-72b352287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arnavticku01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-1649_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/ArnavTicku/"><img src="https://img.shields.io/badge/LeetCode-1649_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/>
 
-> Final-year CS undergraduate at IIIT Naya Raipur specializing in **scalable backend architectures, cloud data pipelines, distributed message queues, and AI workflows**[cite: 3].
+> Final-year CS undergraduate at IIIT Naya Raipur specializing in **scalable backend architectures, cloud data pipelines, distributed message queues, and AI workflows**.
 
 </div>
 
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 **About Me**
 
-* 🚀 **Software Development Intern** building high-throughput cloud architectures (AWS SQS, Chime, S3)[cite: 3].
-* 🛠️ Architected backend pipelines handling **300,000+ tracks** and reduced DB latency by **40%** across production environments[cite: 3].
-* 🧠 Passionate about **Distributed Systems, Microservices, Clean API Design**, and **Agentic AI** frameworks (RAG, LangChain, LangGraph)[cite: 3].
-* 🏆 **LeetCode Contest Rating 1649** with 200+ problems solved[cite: 3].
+* 🚀 **Software Development Intern** building high-throughput cloud architectures (AWS SQS, Chime, S3).
+* 🛠️ Architected backend pipelines handling **300,000+ tracks** and reduced DB latency by **40%** across production environments.
+* 🧠 Passionate about **Distributed Systems, Microservices, Clean API Design**, and **Agentic AI** frameworks (RAG, LangChain, LangGraph).
+* 🏆 **LeetCode Contest Rating 1649** with 200+ problems solved.
 
 ---
 
@@ -69,7 +69,3 @@ Architecture & AI      : RAG • LangChain • LangGraph • RESTful APIs • We
   * Built desktop tools with Electron.js & MoviePy, alongside structured productivity plugins.
 
 ---
-
-<div align="center">
-  <sub>Designed by <b>Arnav Ticku</b></sub>
-</div>
